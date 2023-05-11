@@ -1,9 +1,7 @@
 ---
 name: Samsung
-subtitle: especially after Android P update
+subtitle: especially after Android 12 update
 manufacturer:
-  - samsung
-award: 5
-position: 1
-redirect_from: /vendors/samsung.html
----
+  - samsung galaxy As03
+award:
+position: 0
